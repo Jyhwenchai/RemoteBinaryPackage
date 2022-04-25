@@ -1,0 +1,11 @@
+framework module RemoteBinaryPackage {
+  umbrella header "RemoteBinaryPackage.h"
+
+  export *
+  module * { export * }
+}
+
+module RemoteBinaryPackage.Swift {
+    header "RemoteBinaryPackage-Swift.h"
+    requires objc
+}
