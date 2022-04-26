@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sgKfZkf44waEI72RTTmqRS0s7R8=
+		8nifz43AvPbsbvxjBaCTkIx+fUE=
 		</data>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ced5/zGxk2HDNjdbM8UvAm/8j+g=
+		n4QJcWOaQcrji1aVfXfpUs6WWac=
 		</data>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3XwN+sbnwY4IPaVTpMTsE3NvHwk=
+		BqL0pkpbT83+duiFUBsW/ulzGHY=
 		</data>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vZWfmgeH6p2+//2Tgfz6ZLBdWmE=
+		OKRMjmgzIVv2HiN0zMnIuU19cs4=
 		</data>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		80Tdy7GdUKtpEX9HjcSRx60tOII=
+		Yr5CBdktooSab55iKVpletwIe94=
 		</data>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TnEm20kY2luNJJjG+OibSuod4o4=
+		ZoWsMDhYXVUyUVd1q62WA6P/RyY=
 		</data>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GDqAUqjdPGjkZ9kl2EqJ4D7wn7E=
+		RPPc51uopHbGJItCCggn6RswenU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vuIx3VF0d4fYotJtltP4YcGo0hgwy3VKQaKnU6E6uUc=
+			WM9rIkEperbEj7Hm9+UxdbDZlnWIIMauLESr3wRrlIE=
 			</data>
 		</dict>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qq1V67L+zfMTxtTdIvEmXSF//8/JYkBOsV34k5Hrgis=
+			sdspt+V3fb4QmhFkeZaoFBYZLMEMnEK10p8ljuwAKNk=
 			</data>
 		</dict>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7g3xigWTD0Wjbx80HR4tdfmwrLhwzpLoeMlIHIuPPRQ=
+			Q4kouss4Nw4wX3ThlNxwTFF+kgUDUtEyGU1Y+ManC1k=
 			</data>
 		</dict>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w51SotNixgFMZ++xY4Jq8TDcKnjx4tfQsBpR/5IR95c=
+			o0MrfagLTfrv2Xvv0c60Re42JRWu0lhG0ThONLrkMZw=
 			</data>
 		</dict>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pxTWIcwu1LNz5MuD0Jv/DDk/wwPhSd5oIfuWD66H4VE=
+			vrp11oMWuhvxsHrxbbOy3NWf/MRp0WMcAVW3ZtQFJXc=
 			</data>
 		</dict>
 		<key>Modules/RemoteBinaryPackage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5So/bAbFwFefnQMKfZi+u9zMK92/dJNTD/1fu0hvgoI=
+			/YqKIVI4dmcrLtJXQvx+Qd19BeSnS9XRrUBQb+CPmRU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
